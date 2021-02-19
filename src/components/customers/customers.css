@@ -1,0 +1,19 @@
+body {
+  background-color: #264653;
+  font-size: 1.2rem;
+  line-height: 2rem;
+  text-align: center;
+  color: #f1faee;
+}
+
+ul {
+  list-style: none;
+  width: 30%;
+  padding: 0;
+  margin: auto;
+  text-align: left;
+}
+
+li {
+border-bottom: 1px solid #f1faee;
+}
